@@ -21,5 +21,14 @@
       <description>Qual o problema?   </description>
     </item>
     
+    <item>
+      <title>Projects</title>
+      <link>https://trunkol.github.io/about/</link>
+      <pubDate>Sun, 24 May 2015 18:51:50 +0200</pubDate>
+      
+      <guid>https://trunkol.github.io/about/</guid>
+      <description>Software developer and jazz lover.  I&#39;m passionate by simplicity, coffee and a good talk. Some projects that i&#39;ve been working:   Identicon:  Elixir module to help users build identicon like on Github avatar   Currently, i work on LAIS as software developer in projects for health care in Brazil.</description>
+    </item>
+    
   </channel>
 </rss>
