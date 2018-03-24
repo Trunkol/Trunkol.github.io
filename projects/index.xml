@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projetos on Emerson Costa</title>
+    <link>https://trunkol.github.io/projects/</link>
+    <description>Recent content in Projetos on Emerson Costa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>Code released under the Apache 2.0 license.</copyright>
+    <lastBuildDate>Sun, 24 May 2015 18:53:17 +0200</lastBuildDate>
+    
+	<atom:link href="https://trunkol.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
